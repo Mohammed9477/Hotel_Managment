@@ -1,0 +1,17 @@
+﻿  TrivagoMain.cpp
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(262,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(415,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(405,28): warning C4101: 'f': unreferenced local variable
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(405,23): warning C4101: 'sub': unreferenced local variable
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(499,8): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(499,27): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(506,8): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(506,29): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(512,8): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(512,29): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(647,9): warning C4101: 'roomid': unreferenced local variable
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(651,18): warning C4101: 'moth': unreferenced local variable
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(643,9): warning C4101: 'no_of_stars_h': unreferenced local variable
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(651,9): warning C4101: 'day': unreferenced local variable
+C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\TriVaGo\TrivagoMain.cpp(645,9): warning C4101: 'rate_h': unreferenced local variable
+  TriVaGo.vcxproj -> C:\Users\mohamed samy\Documents\Visual Studio 2010\Projects\TriVaGo\Debug\TriVaGo.exe
